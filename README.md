@@ -42,12 +42,6 @@ It showcases my learning journey in Python through hands-on coding practice, pro
 - [loops Idioms.py](loops%20Idioms.py)  
 - [python_basics_projects.py](python_basics_projects.py)  
 
----
-
-## 📌 How to Use
-1. Clone this repository:  
-```bash
-git clone https://github.com/Barathvasan2003/Programming-for-Everybody-Getting-Started-with-Python.git
 
 ---
 
