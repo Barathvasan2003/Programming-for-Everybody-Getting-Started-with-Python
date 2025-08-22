@@ -7,7 +7,7 @@ It showcases my learning journey in Python through hands-on coding practice, pro
 
 ## 📚 Course Overview
 
-- **Platform**: Coursera  
+- **Platform**: [Coursera](https://www.coursera.org/learn/python)  
 - **Instructor**: Dr. Charles Severance (Dr. Chuck)  
 - **Focus**: Python basics, loops, functions, strings, files, lists, dictionaries, and more.  
 - **Level**: Beginner-friendly, no prior coding experience needed.  
@@ -16,8 +16,7 @@ It showcases my learning journey in Python through hands-on coding practice, pro
 
 ## 📁 Repository Structure
 
-```plaintext
-
+### Chapters
 - [Chapter 1](Chapter%201/)
   - [Assignment.py](Chapter%201/Assignment.py)
   - [Chapter 1.txt](Chapter%201/Chapter%201.txt)
@@ -35,6 +34,14 @@ It showcases my learning journey in Python through hands-on coding practice, pro
 - [Chapter 5](Chapter%205/)
   - [Assignment 5.2.py](Chapter%205/Assignment%205.2.py)
   - [Chapter 5.txt](Chapter%205/Chapter%205.txt)
+
+### Additional Python Files
 - [loops Idioms.py](loops%20Idioms.py)
 - [python_basics_projects.py](python_basics_projects.py)
-- [README.md](README.md)
+
+---
+
+## 📌 How to Use
+1. Clone this repository:  
+```bash
+git clone https://github.com/Barathvasan2003/Programming-for-Everybody-Getting-Started-with-Python.git
