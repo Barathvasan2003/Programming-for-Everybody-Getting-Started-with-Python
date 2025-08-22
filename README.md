@@ -48,3 +48,5 @@ It showcases my learning journey in Python through hands-on coding practice, pro
 1. Clone this repository:  
 ```bash
 git clone https://github.com/Barathvasan2003/Programming-for-Everybody-Getting-Started-with-Python.git
+
+<p align="center"> <img src="images/thank_you.gif" alt="Thank You" width="200"/> </p> ```
