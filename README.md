@@ -42,11 +42,9 @@ It showcases my learning journey in Python through hands-on coding practice, pro
 - [loops Idioms.py](loops%20Idioms.py)  
 - [python_basics_projects.py](python_basics_projects.py)  
 
-
 ---
-
-## 🙏 Thank You!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Barathvasan2003/Programming-for-Everybody-Getting-Started-with-Python/main/images/thank_you.gif" alt="Thank You" width="200"/>
-</p>
+## 📌 How to Use
+1. Clone this repository:  
+```bash
+git clone https://github.com/Barathvasan2003/Programming-for-Everybody-Getting-Started-with-Python.git
 
