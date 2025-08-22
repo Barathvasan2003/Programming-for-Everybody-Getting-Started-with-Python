@@ -1,6 +1,6 @@
 # 🐍 Programming for Everybody (Getting Started with Python)
 
-![Python Course Banner](images/my_image.png)
+![Python Course Banner](images/Python Course Banner.png)
 
 This repository contains my solutions to **quizzes, assignments, and mini projects** from the Coursera course *Programming for Everybody (Getting Started with Python)* by **Dr. Charles Severance**.  
 It showcases my learning journey in Python through hands-on coding practice, problem-solving, and small real-world projects.
